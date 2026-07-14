@@ -9,3 +9,6 @@ dist/
 
 # Logs
 *.log
+
+# Código generado por Prisma
+src/generated/
