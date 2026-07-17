@@ -1,0 +1,14 @@
+# Dependencias Node
+node_modules/
+
+# Código compilado
+dist/
+
+# Variables de entorno
+.env
+
+# Logs
+*.log
+
+# Código generado por Prisma
+src/generated/
